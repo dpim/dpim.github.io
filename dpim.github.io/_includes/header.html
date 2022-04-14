@@ -1,0 +1,16 @@
+<div class="header">
+    <span>
+        <a class="home" itemprop="url" href="/">
+            {{ site.title }}
+        </a>
+    </span>
+    <nav>
+        {% for link in site.navigation %}
+        <a itemprop="url" href="{{ link.url }}">
+            <span itemprop="name">
+                {{ link.title }}
+            </span>
+        </a>
+        {% endfor %}
+    </nav>
+</div>
