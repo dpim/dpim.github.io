@@ -1,0 +1,8 @@
+I"p<p><img src="https://github.com/dpim/206/raw/master/screenshot.png" alt="App-screenshot" /></p>
+<ul>
+  <li>Shipped a web app that makes it easy for prospective renters/home buyers to research and compare Seattle neighborhoods in terms of schools, public facilities and public/property safety</li>
+  <li>Built a backend in Node.js for proxying service-to-service queries to Seattle Open Data SoQL APIs, aggregating relevant data and resolving locations in a variety of formats</li>
+  <li><a href="http://206neigh.azurewebsites.net/">See it live</a></li>
+  <li><a href="https://github.com/dpim/206">GitHub repo</a></li>
+</ul>
+:ET
