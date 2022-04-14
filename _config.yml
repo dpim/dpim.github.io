@@ -50,10 +50,14 @@ collections:
 
 defaults:
   - scope:
-      path: ""
+      path: "/"
       type: "projects"
     values:
       layout: "project"
+
+
+include:
+  - _pages
 
 # Exclude from processing.
 # The following items will not be processed, by default.
