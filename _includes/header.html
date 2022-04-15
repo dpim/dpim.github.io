@@ -1,11 +1,11 @@
 <div class="header-wrapper">
     <div class="header">
-        <span>
-            <a class="home" itemprop="url" href="/">
+        <span class="header-title">
+            <a itemprop="url" href="/">
                 {{ site.title }}
             </a>
         </span>
-        <nav>
+        <span class="header-link">
             {% for link in site.navigation %}
             <a itemprop="url" href="{{ link.url }}">
                 <span itemprop="name">
@@ -13,6 +13,6 @@
                 </span>
             </a>
             {% endfor %}
-        </nav>
+        </span>
     </div>
 </div>
