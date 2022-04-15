@@ -3,7 +3,6 @@ html {
     background-color: white;
     margin: 3rem auto;
     max-width: 650px;
-    padding: 0 10px;
     vertical-align: baseline;
     font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
         Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
@@ -47,8 +46,6 @@ ul {
 
 .header-wrapper {
     width: 100%;
-    padding-left: 10px;
-    padding-right: 10px;
     font-size: large;
     position: absolute;
     left: 0px;
