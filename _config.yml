@@ -37,6 +37,8 @@ plugins:
 navigation:
   - title: Projects
     url: /projects
+  - title: Writing
+    url: /writing
   - title: Contact
     url: /contact
 
