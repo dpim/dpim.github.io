@@ -57,7 +57,6 @@ defaults:
     values:
       layout: "project"
 
-
 include:
   - _pages
 
