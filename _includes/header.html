@@ -7,11 +7,7 @@
         </span>
         <span class="header-link">
             {% for link in site.navigation %}
-            <a itemprop="url" href="{{ link.url }}">
-                <span itemprop="name">
-                    {{ link.title }}
-                </span>
-            </a>
+            <a itemprop="url" href="{{ link.url }}"><span itemprop="name">{{ link.title }}</span></a>
             {% endfor %}
         </span>
     </div>
