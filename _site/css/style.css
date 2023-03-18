@@ -39,8 +39,8 @@ a {
 a:active,
 a:focus,
 a:hover {
-    background-color: #ddddcc;
-    border-radius: 1px;
+    background-color: #dddddd;
+    border-radius: 1.5px;
 }
 
 ul {

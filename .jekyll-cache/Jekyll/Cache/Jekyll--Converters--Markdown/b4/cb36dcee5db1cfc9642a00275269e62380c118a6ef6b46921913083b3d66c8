@@ -1,8 +1,0 @@
-I"ô<p><img src="../../assets/cyo1.jpeg" alt="App screenshot" />
-<img src="../../assets/cyo2.jpeg" alt="App screenshot" /></p>
-<ul>
-  <li>Designed, built and shipped a social run tracking app that allows users to share running experiences (courses, photos, captions) vs just stats</li>
-  <li>Wrote iOS app in Swift 3, backend using Node.js/Express, MySQL</li>
-  <li><a href="https://itunes.apple.com/us/app/cardiyo-social-run-tracker/id1198644231?ls=1&amp;mt=8">Available on the App Store</a></li>
-</ul>
-:ET
