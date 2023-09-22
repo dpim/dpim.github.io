@@ -4,7 +4,7 @@ title:  "Contact"
 categories: Dmitry Pimenov
 ---
 
-Excited by the same things? Let's get in touch.
+Excited by the same things? Let's get in touch
 - [LinkedIn](https://www.linkedin.com/in/dpim)
 - [ProductHunt](https://www.producthunt.com/@dpim)
 - [StackOverflow](https://stackoverflow.com/users/8934271/dmitry-pimenov)

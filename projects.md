@@ -4,7 +4,7 @@ title:  "Projects"
 categories: projects
 ---
 
-I enjoy hacking on side projects and bringing my ideas to life. Every project teaches me something new. 
+I enjoy hacking on side projects and bringing my ideas to life. Every project teaches me something new 
 
 Here are a few things I've built:
 
