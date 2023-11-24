@@ -1,12 +1,10 @@
 ---
 layout: default
-title:  "Projects"
+title:  "Work"
 categories: projects
 ---
 
-I enjoy hacking on side projects and bringing my ideas to life. Every project teaches me something new 
-
-Here are a few things I've built:
+Here are a few things I've built...
 
 ### Developer Tools
 - [Tapioca - *API help desk*](tapioca)
@@ -14,6 +12,7 @@ Here are a few things I've built:
 - [Wedge Analytics - *iOS deeplink tooling*](wedge)
 
 ### Productivity Tools
+- [Kata - *decision assistant for fast-moving teams*](https://katahq.com)
 - [Lttrs - *turn any Google Drive folder into a website*](lttrs)
 - [4EJ - *visual knowledge graph management*](4ej)
 - [206 - *explore neighborhoods in Seattle*](206)
