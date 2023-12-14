@@ -40,6 +40,11 @@ h1 {
       
 }
 
+h2 {
+    font-size: 14pt;
+    color: #555;
+}
+
 footer {
     margin-top: 2rem;
     text-align: center;
@@ -53,7 +58,7 @@ a {
     text-decoration: none;
 }
 
-section, ul, p {
+section, ul, p, h2 {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
 }
 
