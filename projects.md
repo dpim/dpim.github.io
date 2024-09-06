@@ -15,7 +15,6 @@ Here are a few things I've built...
 - [Kata - *decision assistant for fast-moving teams*](https://katahq.com)
 - [Lttrs - *turn any Google Drive folder into a website*](lttrs)
 - [4EJ - *visual knowledge graph management*](4ej)
-- [206 - *explore neighborhoods in Seattle*](206)
 
 ### iOS Apps
 - [Mwe - *share and collect artwork*](mwe)
@@ -23,6 +22,8 @@ Here are a few things I've built...
 - [Grassroots - *local political discussion*](grassroots)
 - [Bottle - *hyper-local photo sharing*](bottle)
 - [Helio - *predictive sleep tracking*](helio)
+- More to come!
 
 ### Other
 - [My Product Jobs - *curated product management job board*](mpj)
+- [206 - *explore neighborhoods in Seattle*](206)
