@@ -12,3 +12,4 @@ Recently, I've been most interested in:
 - Workflow automation and productivity tools
 - The future of payments
 - Location-aware social apps
+

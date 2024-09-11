@@ -35,7 +35,7 @@ plugins:
   - jekyll-feed
 
 navigation:
-  - title: Work
+  - title: Projects
     url: /projects
   - title: Writing
     url: /writing
