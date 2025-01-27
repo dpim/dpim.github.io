@@ -17,13 +17,14 @@ It's fun to hack on ideas
 - [4EJ - *visual knowledge graph management*](4ej)
 
 ## iOS Apps
+- [Drinksy - *find great drinks nearby*](drinksy)
 - [Mwe - *share and collect artwork*](mwe)
 - [Cardiyo - *social run tracking*](cardiyo)
 - [Grassroots - *local political discussion*](grassroots)
 - [Bottle - *hyper-local photo sharing*](bottle)
-- [Helio - *predictive sleep tracking*](helio)
-- More to come!
+- [Helio - *predictive sleep tracking*](helio)  
 
 ## Other
+- [Hyrax - *AI copilot combining eye tracking, voice and screen capture*](hyrax)
 - [My Product Jobs - *curated product management job board*](mpj)
 - [206 - *explore neighborhoods in Seattle*](206)
