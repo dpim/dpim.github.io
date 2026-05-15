@@ -1,22 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=SUSE:wght@600&family=Staatliches&display=swap');
 
 body, html {
-    background-color: #F5F6F7;  
+    background-color: #F7F8FA;  
     margin: 0;
     max-width: 100%;
     font-size: 11.5pt;  
     line-height: 1.8; 
-    color: #444;      
+    color: #3F4650;      
     overflow-y: scroll;
 }
 
 ::-webkit-scrollbar {
     width: 8px;
-    background-color: #ECECEC;
+    background-color: #EEF1F4;
 }
 
 ::-webkit-scrollbar-thumb {
-    background-color: #B0B0B0;
+    background-color: #B8C0C8;
     border-radius: 4px;
 }
 
@@ -35,25 +35,25 @@ h1 {
     margin-top: 1rem;
     font-size: 18pt;  
     font-weight: 600;   
-    color: #393939;   
+    color: #303642;   
     font-family: 'SUSE', sans-serif;
       
 }
 
 h2 {
     font-size: 14pt;
-    color: #555;
+    color: #4E5A66;
 }
 
 footer {
     margin-top: 2rem;
     text-align: center;
-    opacity: 0.25;
+    opacity: 0.32;
     font-size: 11pt;
 }
 
 a {
-    color: #667788;    
+    color: #5D708E;    
     transition: 0.3s;
     text-decoration: none;
 }
@@ -63,7 +63,7 @@ section, ul, p, h2 {
 }
 
 a:hover {
-    color: #445566;    
+    color: #38527D;    
 }
 
 ul {
@@ -76,10 +76,10 @@ ul {
     width: 100%;
     font-size: 15pt;
     position: sticky;
-    background: linear-gradient(to bottom, #5571b9, rgb(94, 123, 196));
+    background: linear-gradient(to bottom, #526CAE, #637DBD);
     z-index: 10;
     padding: 0.5rem 0; 
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05); 
+    box-shadow: 0 8px 22px rgba(42, 54, 76, 0.10); 
     font-family: "SUSE", sans-serif;
     overflow: visible;
 }
@@ -91,24 +91,24 @@ ul {
     align-items: center;
     max-width: 700px;
     margin: 0 auto;
-    color: rgb(119, 151, 214);
+    color: #DDE6F8;
 }
 
 .header-link > a > span {
     text-align: center;
     padding: 8px 12px; 
     border-radius: 4px;
-    transition: background-color 0.3s ease;
-    color: rgb(230, 230, 234);
+    transition: background-color 0.3s ease, color 0.3s ease;
+    color: #F1F4FA;
     margin: 0 10px; 
 }
 
 .header-link > a:hover > span {
-    background-color: rgba(255, 255, 255, 0.2); 
+    background-color: rgba(255, 255, 255, 0.18); 
 }
 
 .header-title a {
-    color: rgb(230, 230, 234);
+    color: #F1F4FA;
     text-decoration: none;
 }
 
@@ -124,7 +124,7 @@ ul {
 }
 
 .card img {
-    filter: drop-shadow(0 0 0.25rem rgb(163, 163, 163));
+    filter: drop-shadow(0 12px 22px rgba(49, 58, 74, 0.18));
     justify-self: center;
     display: inline-block;
     max-height: 400px;
